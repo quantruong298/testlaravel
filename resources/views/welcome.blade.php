@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   G is my life
+                   Giang is Bim's life
                 </div>
 
                 <div class="links">
